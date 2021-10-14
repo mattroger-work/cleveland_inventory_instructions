@@ -1,0 +1,10 @@
+div.video_container {
+    text-align: center;
+    padding-top: 10%;
+  }
+
+  .video {
+    position: relative;
+    margin: auto;
+    padding-top: 20px;
+  }

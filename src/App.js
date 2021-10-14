@@ -1,8 +1,14 @@
-import React from 'react';
+import Video from './components/Video';
+import './App.css';
+import Footer from './components/Footer';
 
 function App() {
-  const value = 'World';
-  return <div>Hello {value}</div>;
+  return (
+    <>
+    <Video />
+    <Footer />
+    </>
+  );
 }
 
 export default App;
