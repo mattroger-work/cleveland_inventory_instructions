@@ -1,4 +1,5 @@
 import foot_img from '../Footer-TekXlerate.png'
+import React from 'react'
 
 function Footer() {
   return (
